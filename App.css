@@ -1,0 +1,76 @@
+h1{
+  color:rgb(45, 43, 42);
+  font-size: 100px;
+  font-weight: bold;
+  font-style:italic;
+  font-variant: small-caps;
+}
+h2{
+  color:rgb(14, 10, 23);
+  font-size:30px;
+  font-weight:bold;
+  font-style:italic;
+  margin-left: 10px;
+  text-align: center;
+}
+h3{
+  color:rgb(16, 28, 32);
+  font-size:30px;
+  font-weight:bold;
+  font-style:italic;
+  margin-left: 10px;
+  text-align: left;
+
+}
+form{
+  color:rgba(5, 1, 1, 0.463);
+  font-size:10px;
+  font-weight:bold;
+  font-style:italic;
+  text-align: center;
+
+}
+*{
+  margin-top:0px;
+  margin-left:0px;
+
+}
+input , button{
+  margin-inline: 0px;
+  font-size:20px;
+  color:rgb(241, 35, 3);
+  padding: 5px 10px; /* Add padding for better button appearance */
+  text-align: center; 
+}
+div#first{
+  width:350px;
+  height:auto;
+  margin: 20px;
+  padding:50px;
+  background-color: rgb(99, 80, 80);
+  color:#000000;
+  border:2px solid #02040a;
+  border-radius:40px 40px 40px 40px;  
+  }
+  #mystyle{ 
+    background-image: url("C:\Users\Srushti H\crud-app\public\restaurant8.jpg");
+    background-size: 120% 120%
+  } 
+
+
+
+table, th, td{
+  background-color: rgba(223, 136, 30, 0.016);
+  font-size: 20px;
+  margin-left: 10px;
+  color:white;
+  font-weight:bold;
+
+
+}
+h3{
+  font: outline;
+  font-style: italic;
+  font-size: 50px;
+  text-align: left;
+}
